@@ -1,7 +1,7 @@
 # 🧪 GSP103 - Dataproc Qwik Start - Console
 
 Este repositorio contiene los archivos del laboratorio **GSP103: Dataproc Qwik Start - Console** de Google Cloud Skills Boost.  
-Incluye el paso a paso documentado en el archivo `README.md` y una carpeta `imagenes/` con capturas de pantalla del lab.
+Incluye el paso a paso documentado en el archivo `README.md`: `GSP103.md` y una carpeta `imagenes/` con capturas de pantalla del lab.
 
 ---
 
